@@ -1,0 +1,25 @@
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Editor & IDE Directories
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary files
+*.tmp
+*.temp
+*.log
